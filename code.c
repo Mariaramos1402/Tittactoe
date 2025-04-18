@@ -1,5 +1,5 @@
-# Tittactoe
-# code réalisé par MIKOV Théodor BCS3 
+"Tittactoe"
+"code réalisé par MIKOV Théodor BCS3" 
 
 #include <ncurses.h>
 #include <stdlib.h>
